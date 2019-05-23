@@ -12,8 +12,9 @@ language:
 timezone:
 
 # URL
-url: https://wilsondivino.com.br
-root: /blog
+# url: https://wilsondivino.com.br
+url: https://wilsondivino.netlify.com
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
